@@ -14,8 +14,9 @@ Building production platforms, deployment automation and cloud-native infrastruc
   <img src="https://img.shields.io/badge/Platform-Engineering-1f6feb?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Infrastructure-Automation-black?style=for-the-badge"/>
-
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Platform+Engineering;Cloud+Infrastructure;Kubernetes+%7C+CI%2FCD+%7C+Observability;Developer+Platforms;Infrastructure+Automation;Building+Systems,+Not+Just+Applications"/>
 
 </div>
 
@@ -23,19 +24,20 @@ Building production platforms, deployment automation and cloud-native infrastruc
 
 # About Me
 
-I'm a software engineer with more than a decade of experience building and delivering production software.
+I'm a software engineer with more than a decade of experience designing, building and delivering production software.
 
-My background began in Android and backend development, evolved into technical leadership, and naturally expanded toward Linux infrastructure, deployment automation, CI/CD, observability and platform engineering.
+My career began with Android and backend development, evolved through technical leadership, and naturally expanded into Linux infrastructure, deployment automation, CI/CD, observability and Platform Engineering.
 
-Today my primary focus is designing reliable platforms that improve developer experience, automate software delivery and simplify production operations.
+Today my primary focus is building reliable platforms that improve developer experience, automate software delivery and simplify production operations.
 
-I enjoy building systems that are:
+I enjoy designing systems that are:
 
-- Reliable
-- Observable
-- Automated
-- Reproducible
-- Easy to operate
+* Reliable
+* Observable
+* Automated
+* Secure
+* Reproducible
+* Easy to Operate
 
 ---
 
@@ -43,19 +45,17 @@ I enjoy building systems that are:
 
 > Great software deserves great platforms.
 
-I believe Platform Engineering is about enabling engineering teams to move faster without sacrificing reliability.
+I believe Platform Engineering is about enabling developers to ship software faster without sacrificing reliability, security or operational excellence.
 
-My work focuses on reducing operational complexity through automation, standardization and developer-centric infrastructure.
+My engineering principles are simple:
 
-Core principles:
-
-- Infrastructure as Code
-- Automation First
-- Production by Default
-- Operational Simplicity
-- Developer Experience
-- Observability Everywhere
-- Security by Design
+* Infrastructure as Code
+* Automation First
+* Production by Default
+* Security by Design
+* Operational Simplicity
+* Observability Everywhere
+* Developer Experience Matters
 
 ---
 
@@ -67,19 +67,19 @@ Core principles:
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,bash,nginx,githubactions,gitlab,prometheus,grafana"/>
 </p>
 
-- Linux
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- GitLab CI
-- Prometheus
-- Grafana
-- Loki
-- Alertmanager
-- Nginx
-- Docker Swarm
-- Systemd
+* Linux
+* Docker & Docker Swarm
+* Kubernetes
+* Terraform
+* GitHub Actions
+* GitLab CI
+* Prometheus
+* Grafana
+* Loki
+* Alertmanager
+* Nginx
+* Systemd
+* Infrastructure Automation
 
 ---
 
@@ -89,11 +89,11 @@ Core principles:
 <img src="https://skillicons.dev/icons?i=nodejs,ts,js,laravel"/>
 </p>
 
-- Node.js
-- TypeScript
-- Nuxt
-- Laravel
-- REST APIs
+* Node.js
+* TypeScript
+* Nuxt
+* Laravel
+* REST APIs
 
 ---
 
@@ -103,89 +103,89 @@ Core principles:
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio"/>
 </p>
 
-- Android
-- Kotlin
-- Jetpack Compose
+* Android
+* Kotlin
+* Jetpack Compose
 
 ---
 
 # Platform Engineering Portfolio
 
-My GitHub portfolio is organized as a connected Platform Engineering ecosystem where each repository focuses on one layer of modern infrastructure.
+My GitHub portfolio is organized as a connected Platform Engineering ecosystem where every repository represents one layer of a modern engineering platform.
 
-Together these repositories cover platform automation, deployment, observability, infrastructure security and developer experience.
+Together these repositories cover infrastructure security, deployment automation, Kubernetes, observability, internal developer platforms and platform tooling.
 
 ---
 
 ## Infrastructure Foundation
 
-### secure-vps-baseline
+### [secure-vps-baseline](https://github.com/ali-lasemi/secure-vps-baseline)
 
 Production-ready Linux server hardening toolkit including security auditing, SSH hardening, firewall management, Fail2Ban configuration, operational security practices and infrastructure baselines.
 
 ---
 
-### k8s-platform-foundation
+### [k8s-platform-foundation](https://github.com/ali-lasemi/k8s-platform-foundation)
 
-Production Kubernetes foundation covering cluster architecture, ingress, networking, storage, security, GitOps, autoscaling and operational best practices.
+Production Kubernetes foundation covering cluster architecture, networking, ingress, storage, security, GitOps, autoscaling and operational best practices.
 
 ---
 
 ## Deployment & Delivery
 
-### nuxt-production-deploy-kit
+### [nuxt-production-deploy-kit](https://github.com/ali-lasemi/nuxt-production-deploy-kit)
 
 Production deployment workflows for Nuxt applications including CI/CD pipelines, reverse proxy configuration, systemd services, health checks, rollback strategies and zero-downtime deployment patterns.
 
 ---
 
-### platform-cicd-toolkit
+### [platform-cicd-toolkit](https://github.com/ali-lasemi/platform-cicd-toolkit)
 
 Reusable GitHub Actions and GitLab CI workflows for building, testing, releasing and deploying production software across multiple environments.
 
 ---
 
-### deploy-pilot
+### [deploy-pilot](https://github.com/ali-lasemi/deploy-pilot)
 
-Self-hosted deployment automation platform for managing application releases, deployment pipelines, environments and operational workflows.
+Self-hosted deployment platform focused on release automation, application delivery, deployment orchestration, environment management and operational workflows.
 
 ---
 
 ## Observability
 
-### platform-monitoring-stack
+### [platform-monitoring-stack](https://github.com/ali-lasemi/platform-monitoring-stack)
 
-Complete observability platform using Prometheus, Grafana, Loki, Alertmanager and operational dashboards for monitoring infrastructure, applications and production services.
+Complete observability platform powered by Prometheus, Grafana, Loki and Alertmanager for monitoring infrastructure, applications and production services.
 
 ---
 
 ## Developer Platforms
 
-### internal-developer-platform
+### [internal-developer-platform](https://github.com/ali-lasemi/internal-developer-platform)
 
-Internal platform focused on improving developer productivity through self-service deployments, service management, operational tooling and platform automation.
+Internal developer platform focused on self-service deployments, service management, operational tooling, developer experience and platform automation.
 
 ---
 
-### platform-portfolio-agent
+### [platform-portfolio-agent](https://github.com/ali-lasemi/platform-portfolio-agent)
 
-Agent-assisted repository maintenance system designed to automate documentation, issue management, repository maintenance and engineering workflows while keeping humans in control of critical decisions.
+Agent-assisted repository maintenance platform designed to automate documentation, issue management, engineering workflows and repository operations with human-in-the-loop approval.
 
 ---
 
 # Current Focus
 
-Currently expanding expertise in:
+Currently investing in:
 
-- Platform Engineering
-- Kubernetes
-- Cloud Native Architecture
-- Terraform
-- Internal Developer Platforms
-- GitOps
-- Infrastructure Automation
-- Production Observability
-- Developer Experience Engineering
+* Platform Engineering
+* Kubernetes & Cloud Native
+* Terraform
+* Internal Developer Platforms
+* GitOps
+* Infrastructure Automation
+* Production Observability
+* Deployment Platforms
+* Developer Experience Engineering
 
 ---
 
@@ -193,7 +193,25 @@ Currently expanding expertise in:
 
 Building production-grade platform technologies that enable engineering teams to build, deploy and operate software more efficiently.
 
-My goal is to contribute to organizations building modern cloud platforms while continuously improving the reliability, scalability and usability of engineering infrastructure.
+My long-term goal is to contribute to modern engineering organizations by designing reliable platforms, improving developer productivity and building cloud-native infrastructure at scale.
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-lasemi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-lasemi&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-lasemi&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
