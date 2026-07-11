@@ -37,7 +37,7 @@ I enjoy designing systems that are:
 * Automated
 * Secure
 * Reproducible
-* Easy to Operate
+* Easy to operate
 
 ---
 
@@ -64,7 +64,7 @@ My engineering principles are simple:
 ## Platform Engineering
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,bash,nginx,githubactions,gitlab,prometheus,grafana"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,bash,nginx,githubactions,gitlab,prometheus,grafana"/>
 </p>
 
 * Linux
@@ -86,7 +86,7 @@ My engineering principles are simple:
 ## Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,laravel"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,laravel"/>
 </p>
 
 * Node.js
@@ -100,7 +100,7 @@ My engineering principles are simple:
 ## Mobile
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio"/>
 </p>
 
 * Android
@@ -197,24 +197,6 @@ My long-term goal is to contribute to modern engineering organizations by design
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-lasemi&show_icons=true&theme=github_dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-lasemi&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-lasemi&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 <div align="center">
 
 ### Build platforms that developers trust.
@@ -222,7 +204,7 @@ My long-term goal is to contribute to modern engineering organizations by design
 <br>
 
 <a href="https://www.linkedin.com/in/ali-lasemi-25a7b2210/">
-<img src="https://img.shields.io/badge/LinkedIn-Ali%20Lasemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Lasemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
