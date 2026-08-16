@@ -167,12 +167,6 @@ Internal developer platform focused on self-service deployments, service managem
 
 ---
 
-### [platform-portfolio-agent](https://github.com/ali-lasemi/platform-portfolio-agent)
-
-Agent-assisted repository maintenance platform designed to automate documentation, issue management, engineering workflows and repository operations with human-in-the-loop approval.
-
----
-
 # Current Focus
 
 Currently investing in:
